@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harshalbawaskar
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Java/Spring Boot and React
-- 💞️ I’m not looking to collaborate on anything as of now.
 - 📫 How to reach me ...
 
 <!---
